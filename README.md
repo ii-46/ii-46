@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ii-46/ii-46/master/gifs/Hi.gif" width="40px" />, I'm Inthava</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ii-46/ii-46/main/gifs/Hi.gif" width="40px" />, I'm Inthava</h1>
 <h3 align="center">A passionate developer from Laos</h3>
 
 - 🔭 I’m currently working on **some of my side projects :P**
